@@ -1,8 +1,8 @@
-**.vscode
+**/.vscode
 
-**.devcontainer
+**/.devcontainer
 
-**.clangd
+**/.clangd
 
 # macOS
 .DS_Store
